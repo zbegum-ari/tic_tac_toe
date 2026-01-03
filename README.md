@@ -1,4 +1,4 @@
-# tic_tac_toe# Tic Tac Toe
+# Tic Tac Toe
 
 Bu proje, klasik **X-O (Tic Tac Toe)** oyununun Python kullanılarak Jupyter Notebook ortamında geliştirilmiş bir uygulamasıdır.
 
